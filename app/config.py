@@ -17,5 +17,3 @@ class Settings(BaseSettings):
 
 
 settings = Settings()
-
-/home/user/fastapi/app
